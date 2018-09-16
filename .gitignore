@@ -1,0 +1,4 @@
+*.qgs~
+.DS_Store
+*.png
+*.kml
