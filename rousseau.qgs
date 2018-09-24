@@ -5,19 +5,19 @@
   <evaluateDefaultValues active="0"/>
   <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="">
     <customproperties/>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="rousseau20180917130515917" source="/Users/guilhem/Documents/hiking/rousseau.kml|layername=rousseau" name="rousseau">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="rousseau20180917130515917" source="/Users/guilhem/Documents/hiking/rousseau.kml|layername=rousseau" name="rousseau">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="rousseau20180917125645534" source="/Users/guilhem/Documents/hiking/rousseau.shp" name="rousseau">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="OpenTopoMap20180915122520527" source="/Users/guilhem/Documents/hiking" name="OpenTopoMap">
+    <layer-tree-layer expanded="1" providerKey="" checked="Qt::Checked" id="OpenTopoMap20180915122520527" source="/Users/guilhem/Documents/hiking" name="OpenTopoMap">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="ESRI_Topo20180915122643527" source="/Users/guilhem/Documents/hiking" name="ESRI Topo">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="" checked="Qt::Checked" id="OSM_TF_Outdoors20180915122705827" source="/Users/guilhem/Documents/hiking" name="OSM TF Outdoors">
+    <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="OSM_TF_Outdoors20180915122705827" source="/Users/guilhem/Documents/hiking" name="OSM TF Outdoors">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="Google_Satellite20180915122544754" source="/Users/guilhem/Documents/hiking" name="Google Satellite">
@@ -43,10 +43,10 @@
   <mapcanvas>
     <units>meters</units>
     <extent>
-      <xmin>658188.09927803068421781</xmin>
-      <ymin>5709555.78772467840462923</ymin>
-      <xmax>661103.68670137994922698</xmax>
-      <ymax>5711325.33472361136227846</ymax>
+      <xmin>658815.12033121578861028</xmin>
+      <ymin>5708477.27280985098332167</ymin>
+      <xmax>660316.37144786340650171</xmax>
+      <ymax>5712016.36680771689862013</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>1</projections>
@@ -71,9 +71,9 @@
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="entrevernes20180917125443768"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:3857" srcDatumTransform="-1" destDatumTransform="-1" layerid="Google_Hybrid20180915122728468"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="gozen20180916100201821"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="rousseau20180917125645534"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="parmelan20180917101946076"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="20150216Hakonegairinzan_routes20180915124735986"/>
-      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="rousseau20180917125645534"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="5a764fe889512_routes20180606182335119"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="20150216Hakonegairinzan_track_points20180915124736004"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="cretdumaure20180630123126537"/>
@@ -89,9 +89,9 @@
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="Itineraire_620180917103811994"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="rocdechere20180716095500352"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="okutama_mitake20180916112809588"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="Itineraire_620180917123447684"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:3857" srcDatumTransform="-1" destDatumTransform="-1" layerid="OSM_TF_Outdoors20180906143212206"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="four20180908094558860"/>
-      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="Itineraire_620180917123447684"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="rocdechere20180716094743247"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="four20180908092555917"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="semnoz20180823102428435"/>
@@ -201,9 +201,9 @@
     </custom-order>
   </layer-tree-canvas>
   <legend updateDrawingOrder="true">
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="rousseau" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="rousseau" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="rousseau20180917130515917" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="rousseau20180917130515917" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="rousseau" showFeatureCount="0">
@@ -211,9 +211,9 @@
         <legendlayerfile isInOverview="0" layerid="rousseau20180917125645534" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="OpenTopoMap" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="OpenTopoMap" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="OpenTopoMap20180915122520527" visible="0"/>
+        <legendlayerfile isInOverview="0" layerid="OpenTopoMap20180915122520527" visible="1"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="ESRI Topo" showFeatureCount="0">
@@ -221,9 +221,9 @@
         <legendlayerfile isInOverview="0" layerid="ESRI_Topo20180915122643527" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="OSM TF Outdoors" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="OSM TF Outdoors" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="OSM_TF_Outdoors20180915122705827" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="OSM_TF_Outdoors20180915122705827" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Google Satellite" showFeatureCount="0">
@@ -257,8 +257,8 @@
       </filegroup>
     </legendlayer>
   </legend>
-  <Composer title="web" visible="0">
-    <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" worldFileMap="{cc24f4a6-5c39-4988-9da6-abe832529a04}" alignmentSnap="1" printResolution="200" paperWidth="297" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="2.600000000000001" snapTolerancePixels="5" printAsRaster="0" generateWorldFile="0" paperHeight="210" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
+  <Composer title="web" visible="1">
+    <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" worldFileMap="{cc24f4a6-5c39-4988-9da6-abe832529a04}" alignmentSnap="1" printResolution="72" paperWidth="841" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="0" snapTolerancePixels="5" printAsRaster="0" generateWorldFile="0" paperHeight="594" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
       <symbol alpha="1" clip_to_extent="1" type="fill" name="">
         <layer pass="0" class="SimpleFill" locked="0">
           <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -274,9 +274,9 @@
           <prop k="style" v="solid"/>
         </layer>
       </symbol>
-      <SnapLine y1="0" x1="0" y2="210" x2="0"/>
+      <SnapLine y1="0" x1="0" y2="594" x2="0"/>
       <ComposerMap followPreset="false" mapRotation="0" keepLayerSet="false" followPresetName="" id="0" previewMode="Cache" drawCanvasItems="true">
-        <Extent ymin="4267634.2854105131700635" xmin="15481860.06351544708013535" ymax="4275083.72182657010853291" xmax="15492378.16484926640987396"/>
+        <Extent ymin="5708192.02486280538141727" xmin="656650.1584661906817928" ymax="5712310.59544418286532164" xmax="662481.33331288851331919"/>
         <LayerSet/>
         <Grid/>
         <ComposerMapGrid rightAnnotationDirection="0" gridFramePenColor="0,0,0,255" show="0" bottomAnnotationPosition="1" annotationPrecision="3" showAnnotation="0" topFrameDivisions="0" uuid="{222907ba-601d-4683-8908-7ba9eb67b30f}" leftAnnotationDirection="0" topAnnotationPosition="1" rightAnnotationDisplay="0" offsetX="0" offsetY="0" rightFrameDivisions="0" gridStyle="0" annotationFontColor="0,0,0,255" intervalX="0" gridFrameSideFlags="15" intervalY="0" bottomAnnotationDirection="0" leftAnnotationDisplay="0" leftFrameDivisions="0" frameFillColor1="255,255,255,255" annotationExpression="" frameFillColor2="0,0,0,255" crossLength="3" gridFramePenThickness="0.5" bottomAnnotationDisplay="0" unit="0" topAnnotationDisplay="0" leftAnnotationPosition="1" blendMode="0" gridFrameStyle="0" rightAnnotationPosition="1" gridFrameWidth="2" name="Grid 1" annotationFormat="0" bottomFrameDivisions="0" topAnnotationDirection="0" frameAnnotationDistance="1">
@@ -328,7 +328,7 @@
           <annotationFontProperties description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
         </ComposerMapGrid>
         <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
-        <ComposerItem pagey="0" page="1" id="map0" lastValidViewScaleFactor="2.90898" positionMode="0" positionLock="false" x="0" y="0" visibility="1" zValue="1" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="297" outlineWidth="0.3" excludeFromExports="0" uuid="{cc24f4a6-5c39-4988-9da6-abe832529a04}" height="210.35" itemRotation="0" frame="false" pagex="0">
+        <ComposerItem pagey="0" page="1" id="map0" lastValidViewScaleFactor="2.90898" positionMode="0" positionLock="false" x="0" y="0" visibility="1" zValue="1" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="841" outlineWidth="0.3" excludeFromExports="0" uuid="{cc24f4a6-5c39-4988-9da6-abe832529a04}" height="594" itemRotation="0" frame="false" pagex="0">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -952,6 +952,7 @@
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -1136,7 +1137,7 @@ def my_form_open(dialog, layer, feature):
         <multilineenabled fieldname="" on=""/>
         <selectedonly on=""/>
       </labelattributes>
-      <annotationform></annotationform>
+      <annotationform>.</annotationform>
       <aliases>
         <alias field="Name" index="0" name=""/>
         <alias field="description" index="1" name=""/>
@@ -1156,10 +1157,10 @@ def my_form_open(dialog, layer, feature):
       <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="654574608">
         <columns/>
       </attributetableconfig>
-      <editform></editform>
+      <editform>.</editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath></editforminitfilepath>
+      <editforminitfilepath>.</editforminitfilepath>
       <editforminitcode><![CDATA[]]></editforminitcode>
       <featformsuppress>0</featformsuppress>
       <editorlayout>generatedlayout</editorlayout>

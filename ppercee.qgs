@@ -5,19 +5,19 @@
   <evaluateDefaultValues active="0"/>
   <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="">
     <customproperties/>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="ppercee20180917110028185" source="/Users/guilhem/Documents/hiking/ppercee.kml|layername=ppercee" name="ppercee">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="ppercee20180924101336804" source="/Users/guilhem/Documents/hiking/ppercee.kml|layername=ppercee" name="ppercee">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="ppercee20180917105331151" source="/Users/guilhem/Documents/hiking/ppercee.shp" name="ppercee">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="OpenTopoMap20180915122520527" source="/Users/guilhem/Documents/hiking" name="OpenTopoMap">
+    <layer-tree-layer expanded="1" providerKey="" checked="Qt::Checked" id="OpenTopoMap20180915122520527" source="/Users/guilhem/Documents/hiking" name="OpenTopoMap">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="ESRI_Topo20180915122643527" source="/Users/guilhem/Documents/hiking" name="ESRI Topo">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="" checked="Qt::Checked" id="OSM_TF_Outdoors20180915122705827" source="/Users/guilhem/Documents/hiking" name="OSM TF Outdoors">
+    <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="OSM_TF_Outdoors20180915122705827" source="/Users/guilhem/Documents/hiking" name="OSM TF Outdoors">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="Google_Satellite20180915122544754" source="/Users/guilhem/Documents/hiking" name="Google Satellite">
@@ -26,16 +26,16 @@
     <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="Google_Hybrid20180915122728468" source="/Users/guilhem/Documents/hiking" name="Google Hybrid">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="Bing_Satellite20180917102416584" source="" name="Bing Satellite">
+    <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="Bing_Satellite20180917102416584" source="/Users/guilhem/Documents/hiking" name="Bing Satellite">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="ESRI_Satellite20180917102429814" source="" name="ESRI Satellite">
+    <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="ESRI_Satellite20180917102429814" source="/Users/guilhem/Documents/hiking" name="ESRI Satellite">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="ortho_ign20180917102705739" source="" name="ortho ign">
+    <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="ortho_ign20180917102705739" source="/Users/guilhem/Documents/hiking" name="ortho ign">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="OSM_Standard20180917103245543" source="" name="OSM Standard">
+    <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="OSM_Standard20180917103245543" source="/Users/guilhem/Documents/hiking" name="OSM Standard">
       <customproperties/>
     </layer-tree-layer>
   </layer-tree-group>
@@ -43,10 +43,10 @@
   <mapcanvas>
     <units>meters</units>
     <extent>
-      <xmin>721726.63451018021441996</xmin>
-      <ymin>5769143.91766894049942493</ymin>
-      <xmax>732376.51720693777315319</xmax>
-      <ymax>5775607.61270827054977417</ymax>
+      <xmin>723143.50077000469900668</xmin>
+      <ymin>5770167.26608795952051878</ymin>
+      <xmax>730456.85967117757536471</xmax>
+      <ymax>5774605.93672841135412455</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>1</projections>
@@ -70,8 +70,8 @@
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="sambuy20180908085557024"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:3857" srcDatumTransform="-1" destDatumTransform="-1" layerid="Google_Hybrid20180915122728468"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="gozen20180916100201821"/>
-      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="20150216Hakonegairinzan_routes20180915124735986"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="parmelan20180917101946076"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="20150216Hakonegairinzan_routes20180915124735986"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="5a764fe889512_routes20180606182335119"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="20150216Hakonegairinzan_track_points20180915124736004"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="cretdumaure20180630123126537"/>
@@ -116,6 +116,7 @@
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="mitake_okutama20180916115524410"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="5a764fe889512_tracks20180606182335129"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:3857" srcDatumTransform="-1" destDatumTransform="-1" layerid="Google_Satellite20180915122544754"/>
+      <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="ppercee20180924101336804"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="anterne20180908084216773"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="rachais20180908103617350"/>
       <layer_coordinate_transform destAuthId="EPSG:3857" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="walkannecy120180803153354069"/>
@@ -186,13 +187,13 @@
       <item>ortho_ign20180917102705739</item>
       <item>OSM_Standard20180917103245543</item>
       <item>ppercee20180917105331151</item>
-      <item>ppercee20180917110028185</item>
+      <item>ppercee20180924101336804</item>
     </custom-order>
   </layer-tree-canvas>
   <legend updateDrawingOrder="true">
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="ppercee" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="ppercee20180917110028185" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="ppercee20180924101336804" visible="1"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="ppercee" showFeatureCount="0">
@@ -200,9 +201,9 @@
         <legendlayerfile isInOverview="0" layerid="ppercee20180917105331151" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="OpenTopoMap" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="OpenTopoMap" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="OpenTopoMap20180915122520527" visible="0"/>
+        <legendlayerfile isInOverview="0" layerid="OpenTopoMap20180915122520527" visible="1"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="ESRI Topo" showFeatureCount="0">
@@ -210,9 +211,9 @@
         <legendlayerfile isInOverview="0" layerid="ESRI_Topo20180915122643527" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="OSM TF Outdoors" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="OSM TF Outdoors" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="OSM_TF_Outdoors20180915122705827" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="OSM_TF_Outdoors20180915122705827" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Google Satellite" showFeatureCount="0">
@@ -246,8 +247,8 @@
       </filegroup>
     </legendlayer>
   </legend>
-  <Composer title="web" visible="1">
-    <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" worldFileMap="{cc24f4a6-5c39-4988-9da6-abe832529a04}" alignmentSnap="1" printResolution="200" paperWidth="297" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="2.600000000000001" snapTolerancePixels="5" printAsRaster="0" generateWorldFile="0" paperHeight="210" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
+  <Composer title="web" visible="0">
+    <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" worldFileMap="{cc24f4a6-5c39-4988-9da6-abe832529a04}" alignmentSnap="1" printResolution="72" paperWidth="176.39" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="0" snapTolerancePixels="5" printAsRaster="0" generateWorldFile="0" paperHeight="124.74" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
       <symbol alpha="1" clip_to_extent="1" type="fill" name="">
         <layer pass="0" class="SimpleFill" locked="0">
           <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -263,9 +264,9 @@
           <prop k="style" v="solid"/>
         </layer>
       </symbol>
-      <SnapLine y1="0" x1="0" y2="210" x2="0"/>
+      <SnapLine y1="0" x1="0" y2="124.74" x2="0"/>
       <ComposerMap followPreset="false" mapRotation="0" keepLayerSet="false" followPresetName="" id="0" previewMode="Cache" drawCanvasItems="true">
-        <Extent ymin="4267634.2854105131700635" xmin="15481860.06351544708013535" ymax="4275083.72182656917721033" xmax="15492378.16484926640987396"/>
+        <Extent ymin="5769800.66005852725356817" xmin="723143.50077000469900668" ymax="5774972.54275784362107515" xmax="730456.85967117757536471"/>
         <LayerSet/>
         <Grid/>
         <ComposerMapGrid rightAnnotationDirection="0" gridFramePenColor="0,0,0,255" show="0" bottomAnnotationPosition="1" annotationPrecision="3" showAnnotation="0" topFrameDivisions="0" uuid="{222907ba-601d-4683-8908-7ba9eb67b30f}" leftAnnotationDirection="0" topAnnotationPosition="1" rightAnnotationDisplay="0" offsetX="0" offsetY="0" rightFrameDivisions="0" gridStyle="0" annotationFontColor="0,0,0,255" intervalX="0" gridFrameSideFlags="15" intervalY="0" bottomAnnotationDirection="0" leftAnnotationDisplay="0" leftFrameDivisions="0" frameFillColor1="255,255,255,255" annotationExpression="" frameFillColor2="0,0,0,255" crossLength="3" gridFramePenThickness="0.5" bottomAnnotationDisplay="0" unit="0" topAnnotationDisplay="0" leftAnnotationPosition="1" blendMode="0" gridFrameStyle="0" rightAnnotationPosition="1" gridFrameWidth="2" name="Grid 1" annotationFormat="0" bottomFrameDivisions="0" topAnnotationDirection="0" frameAnnotationDistance="1">
@@ -317,7 +318,7 @@
           <annotationFontProperties description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
         </ComposerMapGrid>
         <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
-        <ComposerItem pagey="0" page="1" id="map0" lastValidViewScaleFactor="2.90898" positionMode="0" positionLock="false" x="0" y="0" visibility="1" zValue="1" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="297" outlineWidth="0.3" excludeFromExports="0" uuid="{cc24f4a6-5c39-4988-9da6-abe832529a04}" height="210.35" itemRotation="0" frame="false" pagex="0">
+        <ComposerItem pagey="0" page="1" id="map0" lastValidViewScaleFactor="1.01927" positionMode="0" positionLock="false" x="0" y="0" visibility="1" zValue="1" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="176.39" outlineWidth="0.3" excludeFromExports="0" uuid="{cc24f4a6-5c39-4988-9da6-abe832529a04}" height="124.74" itemRotation="0" frame="false" pagex="0">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -341,7 +342,7 @@
         <ymax>20037508.34278924390673637</ymax>
       </extent>
       <id>Bing_Satellite20180917102416584</id>
-      <datasource></datasource>
+      <datasource>.</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -382,7 +383,7 @@
         <ymax>20037508.34278924390673637</ymax>
       </extent>
       <id>ESRI_Satellite20180917102429814</id>
-      <datasource></datasource>
+      <datasource>.</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -548,7 +549,7 @@
         <ymax>20037508.34278924390673637</ymax>
       </extent>
       <id>OSM_Standard20180917103245543</id>
-      <datasource></datasource>
+      <datasource>.</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -674,7 +675,7 @@
         <ymax>20037508.34278924390673637</ymax>
       </extent>
       <id>ortho_ign20180917102705739</id>
-      <datasource></datasource>
+      <datasource>.</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -941,6 +942,7 @@
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -1013,7 +1015,7 @@ def my_form_open(dialog, layer, feature):
       <previewExpression></previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Line" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
-      <id>ppercee20180917110028185</id>
+      <id>ppercee20180924101336804</id>
       <datasource>./ppercee.kml|layername=ppercee</datasource>
       <keywordList>
         <value></value>
@@ -1083,7 +1085,7 @@ def my_form_open(dialog, layer, feature):
               <prop k="customdash_unit" v="MM"/>
               <prop k="draw_inside_polygon" v="0"/>
               <prop k="joinstyle" v="bevel"/>
-              <prop k="line_color" v="103,131,97,255"/>
+              <prop k="line_color" v="158,137,199,255"/>
               <prop k="line_style" v="solid"/>
               <prop k="line_width" v="0.26"/>
               <prop k="line_width_unit" v="MM"/>
@@ -1142,7 +1144,7 @@ def my_form_open(dialog, layer, feature):
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <attributeactions default="-1"/>
-      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="943076149">
         <columns/>
       </attributetableconfig>
       <editform></editform>
@@ -1198,16 +1200,31 @@ def my_form_open(dialog, layer, feature):
     </Gui>
     <Digitizing>
       <DefaultSnapToleranceUnit type="int">2</DefaultSnapToleranceUnit>
-      <LayerSnappingList type="QStringList"/>
-      <LayerSnappingEnabledList type="QStringList"/>
+      <LayerSnappingList type="QStringList">
+        <value>ppercee20180917105331151</value>
+        <value>ppercee20180924101336804</value>
+      </LayerSnappingList>
+      <LayerSnappingEnabledList type="QStringList">
+        <value>disabled</value>
+        <value>disabled</value>
+      </LayerSnappingEnabledList>
       <SnappingMode type="QString">current_layer</SnappingMode>
       <AvoidIntersectionsList type="QStringList"/>
-      <LayerSnappingToleranceUnitList type="QStringList"/>
-      <LayerSnapToList type="QStringList"/>
+      <LayerSnappingToleranceUnitList type="QStringList">
+        <value>2</value>
+        <value>2</value>
+      </LayerSnappingToleranceUnitList>
+      <LayerSnapToList type="QStringList">
+        <value>to_vertex_and_segment</value>
+        <value>to_vertex_and_segment</value>
+      </LayerSnapToList>
       <DefaultSnapType type="QString">to vertex</DefaultSnapType>
       <DefaultSnapTolerance type="double">10</DefaultSnapTolerance>
       <TopologicalEditing type="bool">true</TopologicalEditing>
-      <LayerSnappingToleranceList type="QStringList"/>
+      <LayerSnappingToleranceList type="QStringList">
+        <value>0.000000</value>
+        <value>0.000000</value>
+      </LayerSnappingToleranceList>
     </Digitizing>
     <PositionPrecision>
       <DecimalPlaces type="int">2</DecimalPlaces>

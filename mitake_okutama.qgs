@@ -5,16 +5,16 @@
   <evaluateDefaultValues active="0"/>
   <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="">
     <customproperties/>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="mitake_okutama20180916120340876" source="/Users/guilhem/Documents/hiking/mitake_okutama.kml|layername=mitake_okutama" name="mitake_okutama">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="mitake_okutama20180916120340876" source="/Users/guilhem/Documents/hiking/mitake_okutama.kml|layername=mitake_okutama" name="mitake_okutama">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="mitake_okutama20180916115524410" source="/Users/guilhem/Documents/hiking/mitake_okutama.shp" name="mitake_okutama">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="OpenTopoMap20180915122520527" source="/Users/guilhem/Documents/hiking" name="OpenTopoMap">
+    <layer-tree-layer expanded="1" providerKey="" checked="Qt::Checked" id="OpenTopoMap20180915122520527" source="/Users/guilhem/Documents/hiking" name="OpenTopoMap">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="" checked="Qt::Checked" id="ESRI_Topo20180915122643527" source="/Users/guilhem/Documents/hiking" name="ESRI Topo">
+    <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="ESRI_Topo20180915122643527" source="/Users/guilhem/Documents/hiking" name="ESRI Topo">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" providerKey="" checked="Qt::Unchecked" id="OSM_TF_Outdoors20180915122705827" source="/Users/guilhem/Documents/hiking" name="OSM TF Outdoors">
@@ -161,9 +161,9 @@
     </custom-order>
   </layer-tree-canvas>
   <legend updateDrawingOrder="true">
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="mitake_okutama" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="mitake_okutama" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="mitake_okutama20180916120340876" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="mitake_okutama20180916120340876" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="mitake_okutama" showFeatureCount="0">
@@ -171,14 +171,14 @@
         <legendlayerfile isInOverview="0" layerid="mitake_okutama20180916115524410" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="OpenTopoMap" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="OpenTopoMap" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="OpenTopoMap20180915122520527" visible="0"/>
+        <legendlayerfile isInOverview="0" layerid="OpenTopoMap20180915122520527" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="ESRI Topo" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="ESRI Topo" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="ESRI_Topo20180915122643527" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="ESRI_Topo20180915122643527" visible="0"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="OSM TF Outdoors" showFeatureCount="0">
@@ -198,7 +198,7 @@
     </legendlayer>
   </legend>
   <Composer title="web" visible="1">
-    <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" worldFileMap="{cc24f4a6-5c39-4988-9da6-abe832529a04}" alignmentSnap="1" printResolution="200" paperWidth="297" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="2.600000000000001" snapTolerancePixels="5" printAsRaster="0" generateWorldFile="0" paperHeight="210" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
+    <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" worldFileMap="{cc24f4a6-5c39-4988-9da6-abe832529a04}" alignmentSnap="1" printResolution="72" paperWidth="176.39" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="0" snapTolerancePixels="5" printAsRaster="0" generateWorldFile="0" paperHeight="124.74" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
       <symbol alpha="1" clip_to_extent="1" type="fill" name="">
         <layer pass="0" class="SimpleFill" locked="0">
           <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -214,9 +214,9 @@
           <prop k="style" v="solid"/>
         </layer>
       </symbol>
-      <SnapLine y1="0" x1="0" y2="210" x2="0"/>
+      <SnapLine y1="0" x1="0" y2="124.74" x2="0"/>
       <ComposerMap followPreset="false" mapRotation="0" keepLayerSet="false" followPresetName="" id="0" previewMode="Cache" drawCanvasItems="true">
-        <Extent ymin="4267634.2854105131700635" xmin="15481860.06351544708013535" ymax="4275083.72182656917721033" xmax="15492378.16484926640987396"/>
+        <Extent ymin="4267644.52550184167921543" xmin="15481860.06351544708013535" ymax="4275082.74739866517484188" xmax="15492378.16484926640987396"/>
         <LayerSet/>
         <Grid/>
         <ComposerMapGrid rightAnnotationDirection="0" gridFramePenColor="0,0,0,255" show="0" bottomAnnotationPosition="1" annotationPrecision="3" showAnnotation="0" topFrameDivisions="0" uuid="{222907ba-601d-4683-8908-7ba9eb67b30f}" leftAnnotationDirection="0" topAnnotationPosition="1" rightAnnotationDisplay="0" offsetX="0" offsetY="0" rightFrameDivisions="0" gridStyle="0" annotationFontColor="0,0,0,255" intervalX="0" gridFrameSideFlags="15" intervalY="0" bottomAnnotationDirection="0" leftAnnotationDisplay="0" leftFrameDivisions="0" frameFillColor1="255,255,255,255" annotationExpression="" frameFillColor2="0,0,0,255" crossLength="3" gridFramePenThickness="0.5" bottomAnnotationDisplay="0" unit="0" topAnnotationDisplay="0" leftAnnotationPosition="1" blendMode="0" gridFrameStyle="0" rightAnnotationPosition="1" gridFrameWidth="2" name="Grid 1" annotationFormat="0" bottomFrameDivisions="0" topAnnotationDirection="0" frameAnnotationDistance="1">
@@ -268,7 +268,7 @@
           <annotationFontProperties description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
         </ComposerMapGrid>
         <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
-        <ComposerItem pagey="0" page="1" id="map0" lastValidViewScaleFactor="2.90898" positionMode="0" positionLock="false" x="0" y="0" visibility="1" zValue="1" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="297" outlineWidth="0.3" excludeFromExports="0" uuid="{cc24f4a6-5c39-4988-9da6-abe832529a04}" height="210.35" itemRotation="0" frame="false" pagex="0">
+        <ComposerItem pagey="0" page="1" id="map0" lastValidViewScaleFactor="2.90898" positionMode="0" positionLock="false" x="0" y="0" visibility="1" zValue="1" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="176.39" outlineWidth="0.3" excludeFromExports="0" uuid="{cc24f4a6-5c39-4988-9da6-abe832529a04}" height="124.74" itemRotation="0" frame="false" pagex="0">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
