@@ -3,3 +3,5 @@
 *.png
 *.kml
 srtm_38_03
+*.gpkg-shm
+*.gpkg-wal
